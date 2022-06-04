@@ -1,0 +1,55 @@
+body{
+    background-color:#C0C0C0;
+    color:black;
+    font-family: "Hiragino Mincho ProN";
+}
+h2{
+    background-color:white;
+    padding:16px;
+    margin-left: auto;
+    margin-right: auto;
+    width:500px;
+}
+.setumei{
+    font-size: 80%;
+}
+.stage1{
+    background-color:#808080;
+    padding:16px;
+    margin-left: auto;
+    margin-right: auto;
+    width:300px;
+}
+.stage1:hover{
+    transform: scale(1.05);
+    color:white;
+    text-decoration:none;
+}
+.stage2{
+    background-color:#808080;
+    padding:16px;
+    margin-left: auto;
+    margin-right: auto;
+    width:300px;
+}
+.stage2:hover{
+    transform: scale(1.05);
+    color:white;
+    text-decoration:none;
+}
+.stage3{
+    background-color:#808080;
+    padding:16px;
+    margin-left: auto;
+    margin-right: auto;
+    width:300px;
+}
+.stage3:hover{
+    transform: scale(1.05);
+    color:white;
+    text-decoration:none;
+}
+a {
+    color: black;
+    text-decoration:none;
+}
